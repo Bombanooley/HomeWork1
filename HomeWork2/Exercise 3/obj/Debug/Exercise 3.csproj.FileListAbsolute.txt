@@ -1,6 +1,0 @@
-D:\GB\Exercise 3\bin\Debug\Exercise 3.exe.config
-D:\GB\Exercise 3\bin\Debug\Exercise 3.exe
-D:\GB\Exercise 3\bin\Debug\Exercise 3.pdb
-D:\GB\Exercise 3\obj\Debug\Exercise 3.csproj.CoreCompileInputs.cache
-D:\GB\Exercise 3\obj\Debug\Exercise 3.exe
-D:\GB\Exercise 3\obj\Debug\Exercise 3.pdb
