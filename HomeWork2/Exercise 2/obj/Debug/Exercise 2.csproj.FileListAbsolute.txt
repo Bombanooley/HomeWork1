@@ -1,7 +1,0 @@
-D:\GB\Exercise 2\bin\Debug\Exercise 2.exe.config
-D:\GB\Exercise 2\bin\Debug\Exercise 2.exe
-D:\GB\Exercise 2\bin\Debug\Exercise 2.pdb
-D:\GB\Exercise 2\obj\Debug\Exercise 2.csprojAssemblyReference.cache
-D:\GB\Exercise 2\obj\Debug\Exercise 2.csproj.CoreCompileInputs.cache
-D:\GB\Exercise 2\obj\Debug\Exercise 2.exe
-D:\GB\Exercise 2\obj\Debug\Exercise 2.pdb
