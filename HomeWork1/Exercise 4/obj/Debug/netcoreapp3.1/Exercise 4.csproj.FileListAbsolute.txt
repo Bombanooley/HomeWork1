@@ -1,0 +1,13 @@
+C:\Users\hitma\Рабочий стол\GB\1 занятие\Exercise 4\bin\Debug\netcoreapp3.1\Exercise 4.exe
+C:\Users\hitma\Рабочий стол\GB\1 занятие\Exercise 4\bin\Debug\netcoreapp3.1\Exercise 4.deps.json
+C:\Users\hitma\Рабочий стол\GB\1 занятие\Exercise 4\bin\Debug\netcoreapp3.1\Exercise 4.runtimeconfig.json
+C:\Users\hitma\Рабочий стол\GB\1 занятие\Exercise 4\bin\Debug\netcoreapp3.1\Exercise 4.runtimeconfig.dev.json
+C:\Users\hitma\Рабочий стол\GB\1 занятие\Exercise 4\bin\Debug\netcoreapp3.1\Exercise 4.dll
+C:\Users\hitma\Рабочий стол\GB\1 занятие\Exercise 4\bin\Debug\netcoreapp3.1\Exercise 4.pdb
+C:\Users\hitma\Рабочий стол\GB\1 занятие\Exercise 4\obj\Debug\netcoreapp3.1\Exercise 4.csprojAssemblyReference.cache
+C:\Users\hitma\Рабочий стол\GB\1 занятие\Exercise 4\obj\Debug\netcoreapp3.1\Exercise 4.AssemblyInfoInputs.cache
+C:\Users\hitma\Рабочий стол\GB\1 занятие\Exercise 4\obj\Debug\netcoreapp3.1\Exercise 4.AssemblyInfo.cs
+C:\Users\hitma\Рабочий стол\GB\1 занятие\Exercise 4\obj\Debug\netcoreapp3.1\Exercise 4.csproj.CoreCompileInputs.cache
+C:\Users\hitma\Рабочий стол\GB\1 занятие\Exercise 4\obj\Debug\netcoreapp3.1\Exercise 4.dll
+C:\Users\hitma\Рабочий стол\GB\1 занятие\Exercise 4\obj\Debug\netcoreapp3.1\Exercise 4.pdb
+C:\Users\hitma\Рабочий стол\GB\1 занятие\Exercise 4\obj\Debug\netcoreapp3.1\Exercise 4.genruntimeconfig.cache
