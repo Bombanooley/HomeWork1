@@ -1,0 +1,5 @@
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork4\Arr\bin\Debug\Arr.dll
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork4\Arr\bin\Debug\Arr.pdb
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork4\Arr\obj\Debug\Arr.csproj.CoreCompileInputs.cache
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork4\Arr\obj\Debug\Arr.dll
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork4\Arr\obj\Debug\Arr.pdb
