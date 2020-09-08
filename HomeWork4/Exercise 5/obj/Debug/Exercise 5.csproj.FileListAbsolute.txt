@@ -1,0 +1,2 @@
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork4\Exercise 5\obj\Debug\Exercise 5.csprojAssemblyReference.cache
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork4\Exercise 5\obj\Debug\Exercise 5.csproj.CoreCompileInputs.cache
