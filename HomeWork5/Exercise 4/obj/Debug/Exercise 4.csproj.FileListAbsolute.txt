@@ -1,0 +1,7 @@
+C:\Users\hitma\OneDrive\GeekBrains\Exercise 4\bin\Debug\Exercise 4.exe.config
+C:\Users\hitma\OneDrive\GeekBrains\Exercise 4\bin\Debug\Exercise 4.exe
+C:\Users\hitma\OneDrive\GeekBrains\Exercise 4\bin\Debug\Exercise 4.pdb
+C:\Users\hitma\OneDrive\GeekBrains\Exercise 4\obj\Debug\Exercise 4.csproj.CoreCompileInputs.cache
+C:\Users\hitma\OneDrive\GeekBrains\Exercise 4\obj\Debug\Exercise 4.exe
+C:\Users\hitma\OneDrive\GeekBrains\Exercise 4\obj\Debug\Exercise 4.pdb
+C:\Users\hitma\OneDrive\GeekBrains\Exercise 4\obj\Debug\Exercise 4.csprojAssemblyReference.cache
