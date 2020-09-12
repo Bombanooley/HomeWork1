@@ -1,0 +1,7 @@
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork5\bin\Debug\HomeWork5.exe.config
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork5\bin\Debug\HomeWork5.exe
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork5\bin\Debug\HomeWork5.pdb
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork5\obj\Debug\Exercise 1.csprojAssemblyReference.cache
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork5\obj\Debug\Exercise 1.csproj.CoreCompileInputs.cache
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork5\obj\Debug\HomeWork5.exe
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork5\obj\Debug\HomeWork5.pdb
