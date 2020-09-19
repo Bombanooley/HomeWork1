@@ -1,0 +1,11 @@
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork7\Homework7\obj\Debug\Exercise 1.csprojAssemblyReference.cache
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork7\Homework7\obj\Debug\Homework7.Form1.resources
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork7\Homework7\obj\Debug\Homework7.Properties.Resources.resources
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork7\Homework7\obj\Debug\Exercise 1.csproj.GenerateResource.cache
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork7\Homework7\obj\Debug\Exercise 1.csproj.CoreCompileInputs.cache
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork7\Homework7\bin\Debug\Homework7.exe.config
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork7\Homework7\bin\Debug\Homework7.exe
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork7\Homework7\bin\Debug\Homework7.pdb
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork7\Homework7\obj\Debug\Homework7.exe
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork7\Homework7\obj\Debug\Homework7.pdb
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork7\Homework7\obj\Debug\Homework7.Form2.resources
