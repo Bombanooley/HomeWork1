@@ -1,0 +1,7 @@
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork8\Exersice 5\bin\Debug\Exersice 5.exe.config
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork8\Exersice 5\bin\Debug\Exersice 5.exe
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork8\Exersice 5\bin\Debug\Exersice 5.pdb
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork8\Exersice 5\obj\Debug\Exersice 5.csprojAssemblyReference.cache
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork8\Exersice 5\obj\Debug\Exersice 5.csproj.CoreCompileInputs.cache
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork8\Exersice 5\obj\Debug\Exersice 5.exe
+C:\Users\hitma\OneDrive\GeekBrains\HomeWork8\Exersice 5\obj\Debug\Exersice 5.pdb
